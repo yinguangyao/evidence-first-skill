@@ -6,6 +6,12 @@ Evidence First is a portable Codex skill for working in a Fable5-like mode: inte
 
 Evidence First 是一个可移植的 Codex skill，用来复刻 Fable5 式工作模式：先理解意图，再拿证据支撑结论；结论放第一句；没有实际验证就不说完成。
 
+## Keywords / 关键词
+
+agent skills, Codex skills, npx skills, skills CLI, AI agents, prompt engineering, evidence-based workflow, verification-first delivery, adversarial review, portable agent methodology, Fable5-like workflow
+
+agent skill、Codex skill、npx skills、skills CLI、AI agent、提示词工程、证据优先、验证优先、敌对评审、可移植 agent 方法论、Fable5 式工作流
+
 ## 中文说明
 
 ### 它解决什么问题
